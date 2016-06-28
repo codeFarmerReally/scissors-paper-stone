@@ -7,4 +7,4 @@
 3. if the rate of success is equal,robot will use random answer.
 4. For more details,please read the notes.
 
-Thanks for pull new idea for how to win or how you defeat the robot!
+## Thanks for pull new idea for how to win or how you defeat the robot!
